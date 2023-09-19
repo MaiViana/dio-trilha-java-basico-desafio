@@ -1,11 +1,3 @@
-//TO DO:Conhecer e importat a classe Scanner
-
-//Exibir as mensagens para o nosso usuário
-
-//Obter pela classe  scanner os valores digitados no terminal
-
-//Exibir a mensagem conta criada
-
 import java.util.Locale;
 import java.util.Scanner;
 
