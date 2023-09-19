@@ -1,4 +1,4 @@
-//TODO:Conhecer e importat a classe Scanner
+//TO DO:Conhecer e importat a classe Scanner
 
 //Exibir as mensagens para o nosso usuário
 
